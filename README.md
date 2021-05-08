@@ -1,6 +1,6 @@
 # Node-enveriment-build 我的react.js开发环境配置 macbookpro m1
 
-## nvm command:
+## nvm卸载正在使用的node  nvm command:
 
 nvm deactivate
 
