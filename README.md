@@ -4,5 +4,5 @@ nvm command:
 
 nvm deactivate
 
-$ nvm uninstall v0.12.2
+nvm uninstall <version>
 
